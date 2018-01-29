@@ -34,9 +34,9 @@ int i=0;
 
 /*find the index of the largest number in the array*/
 
-for (i = 0; i < 12; i++) 
+for (i = 0; i < 12; i++){ 
 
-  { if( A[i] >max) 
+   if( A[i] >max) 
   
     {max= A[i];
     
