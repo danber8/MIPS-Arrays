@@ -46,6 +46,6 @@ for (i = 0; i < 12; i++)
     
  }
     
-    printf("Index of the largestnumber: %d\n", maxIndex);
+ printf("Index of the largestnumber: %d\n", maxIndex);
     
-    printf("The largestnumber: %d\n", max);
+ printf("The largestnumber: %d\n", max);
